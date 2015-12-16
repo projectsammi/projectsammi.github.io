@@ -4,12 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+SAMMI seeks to collaborate with health care providers, subject matter experts, and political leaders to provide decision makers with evidence-based support for policy and resource allocation decisions regarding substance abuse. A state-based model of opioid addiction will allow us to demonstrate the effectiveness of various interventions on the substance abuse crisis.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+MITRE (SAMMI's founding member) will developing a conceptual model of substance abuse, and enumerate expected populations in the state of Massachusetts based on data made available by governmental/other sources. This model and data will be presented via an interactive system to allow stakeholders to investigate trends and funding choices. Eventually, this model and system will be generalized to be applicable to other locations, given the availability of the necessary data.

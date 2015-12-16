@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "The Model"
+date:   2015-12-05 10:00:00 -0400
+categories: Data
+---
+
+![SAMMI's State-based Model of Addiction Behavior]({{ site.url }}/assets/opioid_addiction_model_0_9.png "SAMMI's State-based Model of Addiction Behavior")
+
+Download the model [here][model].
+
+[model]: {{ site.url }}/assets/opioid_addiction_model_0_9.pdf

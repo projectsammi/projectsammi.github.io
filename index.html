@@ -4,19 +4,12 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Project SAMMI</h1>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+  <p>Project SAMMI is an effort to combat the prescription drug epidemic by bringing together data and people who can act on it. Data analysts, clinicians, and policymakers can leverage existing sources of information to make informed choices about how to spend limited dollars.</p>
 
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-      </li>
-    {% endfor %}
-  </ul>
+  <img src="{{site.url}}/assets/opioid_addiction_model_0_9.png" />
+  <p>We, together with doctors, nurses and other practicioners familiar with the cycle of addiction, have assembled this state-based model of opioid addiction. Each state has transitions to/from other states. Our goal: use data to make predictions about the population of each state in the model, and how interventions such as Narcan, or increased treatment capacity, can affect transitions (both positive and negative) between states.</p>
 
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
