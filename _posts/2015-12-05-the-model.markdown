@@ -5,8 +5,13 @@ date:   2015-12-05 10:00:00 -0400
 categories: Data
 ---
 
+SAMMI's model is modeled after a [Markov chain][markov], consisting of a set of 11 states and transitions between them. The labels on the transitions indicate the source and destination states for the particular transition; for example, T<sub>2,4</sub> is the transition between state 2 (Directed Use), and state 4 (Misuse). These transitions are one-way, so T<sub>4,2</sub> specifies the reverse transition of T<sub>2,4</sub>. States where an individual can remain over a period of time, such as the general population, or directed opiate use, can have transition "loops" pointing back at themselves, such as T<sub>1,1</sub>.
+
+This model was developed with the help of doctors, nurses and other medical practitioners familiar with the cycle of addiction. Each state has transitions to/from other states. Our goal: use data to make predictions about the population of each state in the model, and how interventions such as Narcan, or increased treatment capacity, can affect transitions between states. Those effects could be positive, such as reducing the number of people moving from directed use to misuse; or negative, such as increasing the number of people moving from misuse to active use addiction.
+
 ![SAMMI's State-based Model of Addiction Behavior]({{ site.url }}/assets/opioid_addiction_model_0_9.png "SAMMI's State-based Model of Addiction Behavior")
 
-Download the model [here][model].
+You can download a PDF copy of the model [here][model].
 
 [model]: {{ site.url }}/assets/opioid_addiction_model_0_9.pdf
+[markov]: https://en.wikipedia.org/wiki/Markov_chain
