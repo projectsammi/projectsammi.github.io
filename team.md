@@ -11,7 +11,6 @@ The SAMMI project was founded by [the MITRE Corporation][MITRE], with the goal o
 - [Tim Taylor][ttaylor]: Project Engineer
 - [Peter Sylvester][peters]: Database Engineer
 - [Anuj Misra][amisra]: Data Scientist
-- [Frank Zhang][fzhang]: Data Scientist
 - [Michael O'Keefe][mokeefe]: Software Engineer
 - [George Neyarapally][gneyarapally]: Clinical Policy Expert
 - [John Boiney][jboiney]: Social Behavioral Scientist
@@ -23,7 +22,6 @@ If you want to contribute to Project SAMMI, send us an email at: [sammi-list@lis
 [ttaylor]: mailto:ttaylor@mitre.org
 [peters]: maito:peters@mitre.org
 [amisra]: mailto:amisra@mitre.org
-[fzhang]: mailto:fzhang@mitre.org
 [mokeefe]: mailto:mokeefe@mitre.org
 [gneyarapally]: mailto:gneyarapally@mitre.org
 [jboiney]: mailto:jboiney@mitre.org
